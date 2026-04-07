@@ -1,6 +1,7 @@
 <h1 align="center">Shubham Kashyap</h1>
+
 <p align="center">
-Full Stack Engineer • TypeScript • Backend Systems
+Software Engineer • Full Stack • TypeScript
 </p>
 
 <p align="center">
@@ -12,29 +13,29 @@ Full Stack Engineer • TypeScript • Backend Systems
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,prisma,postgres,mongodb,docker,linux,git,github,cpp,c,python,aws,vercel" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,prisma,postgres,mongodb,docker,linux,git,github,cpp,c,python,aws,nginx" />
 </p>
 
 ---
 
 ## Skills
 
-**Backend**  
-TypeScript • Node.js • Express • REST APIs • WebSockets • Prisma
+**Backend**
+TypeScript • Node.js • Express • REST APIs • WebSockets • Prisma ORM
 
-**Frontend**  
-React • Next.js • Tailwind
+**Frontend**
+React • Next.js • Tailwind CSS
 
-**Database**  
+**Database**
 PostgreSQL • MongoDB
 
-**DevOps / Cloud**  
+**DevOps**
 Docker • Linux • Git • GitHub • Vercel • AWS
 
-**Programming**  
+**Programming**
 TypeScript • JavaScript • C++ • C • Python
 
-**Architecture**  
+**Architecture**
 Clean Architecture • MVC • SOLID • Monorepo (Turborepo)
 
 ---
@@ -49,15 +50,9 @@ Clean Architecture • MVC • SOLID • Monorepo (Turborepo)
 
 </p>
 
-<p align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=kashyap-shubham&hide_border=true&background=FFFFFF00&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed" />
-
-</p>
-
 ---
 
-## Activity Graph
+## Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyap-shubham&hide_border=true"/>
@@ -73,6 +68,7 @@ Clean Architecture • MVC • SOLID • Monorepo (Turborepo)
 
 ---
 -->
+
 
 ## Contribution Activity
 
