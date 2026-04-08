@@ -60,6 +60,7 @@ Clean Architecture • MVC • SOLID • Monorepo (Turborepo)
 
 ---
 
+
 <!-- ## LeetCode
 
 <p align="center">
@@ -70,7 +71,7 @@ Clean Architecture • MVC • SOLID • Monorepo (Turborepo)
 -->
 
 
-## Contribution Activity
+<!-- ## Contribution Activity
 
 <p align="center">
 
@@ -81,3 +82,4 @@ Clean Architecture • MVC • SOLID • Monorepo (Turborepo)
 </picture>
 
 </p>
+-->
