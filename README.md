@@ -75,3 +75,10 @@ optimize for clarity and maintainability
 make tradeoffs explicit  
 design with awareness of performance characteristics  
 build systems that are easy to change and reason about  
+
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=90&section=footer"/>
+</p>
