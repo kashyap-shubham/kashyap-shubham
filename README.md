@@ -59,23 +59,22 @@ Interested in designing systems that remain simple, predictable, and maintainabl
 
 ## Focus
 
-system design for maintainable applications  
-real-time features and interactive systems  
-API design and data modeling  
-performance-aware implementation decisions  
-building software that evolves cleanly with new requirements  
+- system design for maintainable applications  
+- real-time features and interactive systems  
+- API design and data modeling  
+- performance-aware implementation decisions  
+- building software that evolves cleanly with new requirements  
 
 ---
 
 ## Principles
 
-prefer simple architectures over unnecessary complexity  
-strong fundamentals guide practical decisions  
-optimize for clarity and maintainability  
-make tradeoffs explicit  
-design with awareness of performance characteristics  
-build systems that are easy to change and reason about  
-
+- prefer simple architectures over unnecessary complexity  
+- strong fundamentals guide practical decisions  
+- optimize for clarity and maintainability  
+- make tradeoffs explicit  
+- design with awareness of performance characteristics  
+- build systems that are easy to change and reason about  
 
 ---
 
